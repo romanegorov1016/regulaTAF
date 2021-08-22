@@ -7,7 +7,7 @@
 
     <test verbose="1" name="Regula face api regression tests">
         <classes>
-            <class name="FaceDetectionTest"/>
+            <class name="ui.FaceDetectionTest"/>
         </classes>
     </test>
 

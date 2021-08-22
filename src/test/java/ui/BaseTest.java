@@ -1,3 +1,5 @@
+package ui;
+
 import core.model.Browser;
 import core.model.ImageTO;
 import core.service.DriverFactory;

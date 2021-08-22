@@ -1,5 +1,9 @@
+package ui;
+
 import core.model.ImageTO;
-import org.testng.annotations.*;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
 
 public class FaceDetectionTest extends BaseTest {
 
